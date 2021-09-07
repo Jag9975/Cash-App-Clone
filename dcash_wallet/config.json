@@ -1,0 +1,5 @@
+{
+    "api_server_port": 8080,
+    "api_server_host": "localhost",
+    "stripe_publishable_key": "pk_test_51IyrX3EAipxMHUtPAOMAa0PMsNzmRO3r1h05ZERlSuU6muLKx9GvsuS3mgTmMQpbGjSc8Xe64FWfAZJoRDY8F24w00bTbZo3eS"
+}
